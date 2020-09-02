@@ -2,12 +2,9 @@
 	font-family: sans-serif;
 }
 .header {
-	margin-top: 20px;
+	margin-top: 10px;
 	text-align: center;
 }
 .profile-name {
 	margin-top: 10px
-}
-.list {
-	margin-top: 20px;
 }
